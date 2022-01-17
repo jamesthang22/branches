@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-testing
-=======
-Socrates
+Soc
 Socrates
 Joan of Arc
 Abraham Lincoln
->>>>>>> bp--class-presentation
